@@ -120,7 +120,6 @@ KIIT University, Bhubaneswar · CGPA: 8.11 · 2022
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit890271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Rohit's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit890271&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
 </p>
 
