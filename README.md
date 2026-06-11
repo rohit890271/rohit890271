@@ -127,12 +127,12 @@ KIIT University, Bhubaneswar · CGPA: 8.11 · 2022
 
 ## Open to work
 
-I'm actively looking for roles in **Data Analytics, BI, or Analytics Engineering** — ideally somewhere I can work on meaningful data problems and keep growing technically.
+I'm actively looking for roles in **Data Analytics, BI, or Analytics Engineering** ideally somewhere I can work on meaningful data problems and keep growing technically.
 
 If you're hiring or want to chat, the best way to reach me is **[rj890112@gmail.com](mailto:rj890112@gmail.com)** or on **[LinkedIn](https://linkedin.com/in/rohit-jaiswal-64041b202)**.
 
 ---
 
 <p align="center">
-  <sub>Thanks for reading — feel free to explore the repos and drop a ⭐ if something's useful!</sub>
+  <sub>Thanks for reading ,feel free to explore the repos and drop a ⭐ if something's useful!</sub>
 </p>
