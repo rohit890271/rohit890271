@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst · 3+ Years at Cognizant · Based in Bengaluru</b><br/>
-  <em>Actively looking for my next role in Data Analytics or BI</em>
+  <em>Actively looking for my next role in Data Analytics</em>
 </p>
 
 <p align="center">
